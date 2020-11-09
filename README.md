@@ -1,2 +1,3 @@
 # YFA_flask
-yelp for everything python alternative
+
+requires flask to be installed
