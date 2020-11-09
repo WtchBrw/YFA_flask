@@ -1,0 +1,29 @@
+body {
+	margin: 0px;
+	font-size: 1.1em;
+}
+
+footer, nav {
+	text-align: center;
+}
+
+nav ul li {
+	display: inline;
+    margin-right: 10px;
+}
+
+a {
+	color: maroon;
+	font-weight: bold;
+}
+
+h1 {
+	margin: 30px;
+	color: Maroon;
+}
+
+#banner-text {
+	font-weight: bold;
+	padding: 200px 100px;
+	text-align: center;
+}
